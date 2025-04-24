@@ -1,0 +1,475 @@
+# Google
+*.google.com/*_log
+appsgenaiserver-pa.clients6.google.com
+ogads-pa.clients6.google.com
+people-pa.clients6.google.com
+peoplestack-pa.clients6.google.com
+peoplestackwebexperiments-pa.clients6.google.com
+appsgrowthpromo-pa.clients6.google.com
+feedback-pa.clients6.google.com
+addons-pa.clients6.google.com
+espresso-pa.clients6.google.com
+scone-pa.clients6.google.com
+signaler-pa.clients6.google.com
+auditrecording-pa.clients6.google.com
+clienttracing-pa.clients6.google.com
+datasaver.clients6.google.com
+auditrecording-pa.googleapis.com
+clienttracing-pa.googleapis.com
+datasaver.googleapis.com
+feedback-pa.googleapis.com
+jnn-pa.googleapis.com
+growth-pa.googleapis.com
+locationhistory-pa.googleapis.com
+locationhistoryaggregates-pa.googleapis.com
+imasdk.googleapis.com
+*-script.googleusercontent.com
+*.googleusercontent.com$domain=sites.google.com,frame,script,font
+play.google.com$third-party
+dai.google.com
+id.google.com
+analytics.google.com$third-party,image,script
+adsense.google.com$third-party,image,script,frame,media
+*.google.com/recaptcha/*$third-party
+||www.google.com/recaptcha/enterprise/anchor
+
+googletagmanager.net
+googletagmanager.com
+googletagservices.com
+google-analytics.com
+googlesyndication.com
+pubads.g.doubleclick.net
+doubleclick.net
+googleadservices.com
+
+adst-org.webpkgcache.com
+
+recaptcha.net
+
+*.googleapis.com/generate_204
+googleapis.com/generate_204
+gstatic.com/generate_204$third-party
+connectivitycheck.gstatic.com$third-party
+play.google.com/generate_204
+safebrowsing.google.com/generate_204
+accounts.google.com/generate_204
+youtube.com/generate_204$third-party
+*.google.com/generate_204$third-party
+
+# Yahoo
+analytics.yahoo.com
+geo.yahoo.com
+geo*.yahoo.com
+bats.video.yahoo.com
+bats.*.yahoo.com
+signal-service.pbs.yahoo.com
+noa.yahoo.com
+udc.yahoo.com
+nexus-gateway-prod.*.yahoo.com
+
+# DuckDuckGo
+improving.duckduckgo.com
+
+# Amazon
+amazon-adsystem.com
+unagi.amazon.com
+unagi-na.amazon.com
+
+# Microsoft
+*.data.microsoft.com
+target.microsoft.com
+displaycatalog.mp.microsoft.com
+
+srtb.msn.com
+c.msn.com
+*.data.msn.com
+
+bat.bing.com
+bats.bing.com
+bats.*.bing.com
+r.bing.com
+
+collector.github.com
+api.github.com
+
+# Adobe
+adobeid-na1.services.adobe.com
+geo*.adobe.com
+adobedtm.com
+cc-api-data.adobe.io
+
+# Twitter/X
+ads-twitter.com
+
+# Meta
+connect.facebook.com$third-party
+facebook.com$third-party
+facebook.net$third-party
+static.xx.fbcdn.net$third-party
+graph.facebook.com$third-party
+
+# TikTok
+analytics.tiktok.com
+tiktok.com$third-party
+
+# Nintendo
+graph.nintendo.com
+
+# Apple
+metrics.icloud.com
+metrics.apple.com
+securemetrics.apple.com
+securemetrics.icloud.com
+
+# CloudFlare
+cloudflareinsights.com$third-party
+static.cloudflareinsights.com
+
+# Sentry
+sentry.io$third-party
+
+# BugSnag
+sessions.bugsnag.com
+
+# Insops
+insops.net
+
+# Target
+redsky.target.com
+redoak.target.com
+sapphire-api.target.com
+
+# Walmart
+advertising.walmart.com
+
+# Home Depot
+mr.homedepot.com
+customer.homedepot.com
+hd-personalization-*.gcp.homedepot.com
+
+# Lowes
+lowes15841z.btttag.com
+www.lowes.com##.sms-modal-content
+
+# Groupon
+na.groupondata.com
+booster.groupon.com
+booster-pub.groupon.com
+
+# The New York Times
+purr.nytimes.com
+als-svc.nytimes.com
+a.et.nytimes.com
+a.nytimes.com
+samizdat-graphql.nytimes.com
+vp.nyt.com
+g1.nyt.com
+
+# Medallia
+analytics-fe.digital-cloud.medallia.com
+analytics-*.digital-cloud.medallia.com
+
+# Disney
+disney.demdex.net
+sw88.go.com
+tredir.go.com
+dcf.espn.com
+cdn.registerdisney.go.com
+
+# Scratch
+api.scratch.mit.edu/users/*/messages/count
+scratch.mit.edu/site-api/comments/*
+scratch.mit.edu###comments
+clouddata.scratch.mit.edu$websocket
+
+# TurboWarp
+clouddata.turbowarp.org$websocket
+
+# PenguinMod
+clouddata.penguinmod.com$websocket
+
+# Adform
+adform.net$third-party
+
+# Avocet.io
+ads.avocet.io
+
+# Adsrvr
+adsrvr.org$third-party
+
+# CrazyEgg
+script.crazyegg.com
+crazyegg.com/*.png$third-party
+crazyegg.com/*.jpeg$third-party
+crazyegg.com/*.jpg$third-party
+crazyegg.com/*.gif$third-party
+crazyegg.com/*.webp$third-party
+crazyegg.com/*.heic$third-party
+crazyegg.com/*.ico$third-party
+crazyegg.com/*.js$third-party
+crazyegg.com/*.css$third-party
+crazyegg.com$third-party,image
+crazyegg.com$third-party,font
+crazyegg.com$third-party,script
+crazyegg.com$third-party,css
+crazyegg.com/*.ttf$third-party
+crazyegg.com/*.woff$third-party
+crazyegg.com/*.woff2$third-party
+crazyegg.com/*.eof$third-party
+
+# DataDogHQ
+browser-intake-datadoghq.com
+*.browser-intake-datadoghq.com
+
+# Demdex
+*.demdex.net$third-party
+adobedc.demdex.net$domain=adobe.com
+dpm.demdex.net
+
+# Freshworks
+freshmarketer.com
+
+# IPify
+api.ipify.org
+api64.ipify.org
+
+# ICanHazip
+ipv*.icanhazip.com$third-party
+
+# OneTrust
+geolocation.onetrust.com
+
+# StackOverflow
+clc.stackoverflow.com
+clc.stackexchange.com
+clc.*.stackexchange.com
+
+# TheoPlayer
+license.theoplayer.com
+licensing.theoplayer.com
+
+# ???
+ponos.zeronaught.com
+cropper.watch.aetnd.com
+
+analytics.*.com$script,image,third-party
+analytics.*.org$script,image,third-party
+analytics.*.edu$script,image
+analytics.*.net$script,image,third-party
+analytics.*.co$script,image,third-party
+analytics.*.gov$script,image
+analytics.*.io$script,image,third-party
+analytics.*.app$script,image,third-party
+
+
+# Prevent typosquatting
+*.google.com$frame,domain=gooogle.com
+*.google.com$frame,domain=gogle.com
+*.google.com$frame,domain=goggle.com
+*.google.com$frame,domain=googel.com
+
+youtube.com/wathc?v=*$document,frame
+youtube.com/wach?v=*$document,frame
+youtube.com/watc?v=*$document,frame
+youtube.com/ebed/*$document,frame
+youtube.com/embedd/*$document,frame
+
+gooogle.com$document
+gogle.com$document
+goggle.com$document
+googel.com$document
+yotube.com$document
+yutube.com$document
+youtub.com$document
+youtube.cm$document
+oyutube.com$document
+youyube.com$document
+yiutube.com$document
+youtue.com$document
+yaho.com$document
+yaaho.com$document
+ayhoo.com$document
+biing.com$document
+bign.com$document
+bing.cm$document
+micorsoft.com$document
+micosoft.com$document
+microsot.com$document
+microsotf.com$document
+micorsot.com$document
+micorsotf.com$document
+micosot.com$document
+micosotf.com$document
+microsof.com$document
+micosof.com$document
+micorsof.com$document
+microsoft.cm$document
+appel.com$document
+aple.com$document
+apple.cm$document
+duckduckg.com$document
+duckduckgo.cm$document
+ducducgo.com$document
+ducduckgo.com$document
+dukduckgo.com$document
+dukdukgo.com$document
+dukcduckgo.com$document
+dukcdukcgo.com$document
+duckdukcgo.com$document
+traget.com$document
+nyties.com$document
+icoud.com$document
+icluod.com$document
+icloud.cm$document
+scatch.mit.edu$document
+scratch.mit.eu$document
+scracth.mit.edu$document
+scratch.nit.edu$document
+scratchmit.edu$document
+srcatch.mit.edu$document
+scratch.mti.edu$document
+scratch.itm.edu$document
+ezample.com$document
+ecample.com$document
+exampel.com$document
+example.cm$document
+dicsord.com$document
+discor.com$document
+discord.cm$document
+disscord.com$document
+discodr.com$document
+idscord.com$document
+discord.co$document
+dicsordapp.com$document
+discordapp.cm$document
+facbook.com$document
+faebook.com$document
+facebook.cm$document
+faecbook.com$document
+facebok.com$document
+facebokk.com$document
+insagram.com$document
+intsagram.com$document
+instaram.com$document
+instargam.com$document
+instagram.cm$document
+matodon.social$document
+matsodon.social$document
+twiter.com$document
+twitter.cm$document
+x.cm$document
+line.ne$document
+lnie.me$document
+whatapp.com$document
+watsapp.com$document
+wahtsapp.com$document
+whatsapp.cm$document
+whatapps.com$document
+whatapp.cm$document
+
+# Prevent LAN intrusion
+localhost$third-party
+*.local$third-party
+127.0.0.1$third-party
+192.168.1.1$third-party
+192.168.*.*$third-party
+10.*.*.*$third-party
+172.16.*.*$third-party
+172.31.*.*$third-party
+
+# Prevent common phishing attacks
+# Definitions from KyraAV (3 March 2025)
+kyra-av.vercel.app/wbs/malware.html
+kyra-av.vercel.app/wbs/phishing.html
+kyra-av.vercel.app/wbs/adware.html
+attserver231.weebly.com
+attserver*.weebly.com
+v3r1fy.de
+skinbn.com/ams7pcpbn589.html
+clarotv.github.io
+howhow.cl
+wwtwea.pagen.io
+homemts2025.weebly.com
+olufennatoor.com
+webapp-ambienteseguro.site
+currrently27282812.weebly.com
+currently*.weebly.com
+att-currently-2-28-2025.weeblysite.com
+att-currently-*.weeblysite.com
+
+# Prevent student data leaks
+*.instructure.com$third-party,xhr
+api.hapara.com$third-party,xhr,image,frame
+securly.com/crextn/*$third-party,xhr,image,frame
+securly.com/cluster/*$third-party,xhr,image,frame
+
+# Prevent exploits from untrusted fonts
+*.vercel.app$font
+*.weebly.com$font
+*.githubusercontent.com$font
+*.github.io$font
+
+*.vercel.app/*.ttf
+*.vercel.app/*.woff
+*.vercel.app/*.woff2
+*.vercel.app/*.eof
+
+*.weebly.com/*.ttf
+*.weebly.com/*.woff
+*.weebly.com/*.woff2
+*.weebly.com/*.eof
+
+*.githubusercontent.com/*.ttf
+*.githubusercontent.com/*.woff
+*.githubusercontent.com/*.woff2
+*.githubusercontent.com/*.eof
+
+*.github.io/*.ttf
+*.github.io/*.woff
+*.github.io/*.woff2
+*.github.io/*.eof
+
+# Block potentially malicious apps
+*.vercel.app/*.exe
+*.weebly.com/*.exe
+*.repl.co/*.exe
+*.githubusercontent.com/*.exe
+*.github.com/*.exe
+*.github.io/*.exe
+*.vercel.app/*.dmg
+*.weebly.com/*.dmg
+*.repl.co/*.dmg
+*.githubusercontent.com/*.dmg
+*.github.com/*.dmg
+*.github.io/*.dmg
+*.vercel.app/*.msi
+*.weebly.com/*.msi
+*.repl.co/*.msi
+*.githubusercontent.com/*.msi
+*.github.com/*.msi
+*.github.io/*.msi
+*.vercel.app/*.deb
+*.weebly.com/*.deb
+*.repl.co/*.deb
+*.githubusercontent.com/*.deb
+*.github.com/*.deb
+*.github.io/*.deb
+*.vercel.app/*.pkg
+*.weebly.com/*.pkg
+*.repl.co/*.pkg
+*.githubusercontent.com/*.pkg
+*.github.com/*.pkg
+*.github.io/*.pkg
+
+# Prevent exploits from untrusted WASM
+*.vercel.app/*.wasm
+*.githubusercontent.com/*.wasm
+github.com/*/raw/*.wasm
+*.repl.co/*.wasm
+*.github.io/*.wasm
+
+# Prevent Windows 96 hijacking
+windows96.net/?rootfs=*$frame,third-party
+*.windows96.net/?rootfs=*$frame,third-party
+windows96.net/?*&rootfs=*$frame,third-party
+*.windows96.net/?*&rootfs=*$frame,third-party
